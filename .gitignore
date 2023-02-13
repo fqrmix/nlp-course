@@ -1,0 +1,8 @@
+.DS_Store
+anecdote.txt
+cached_lm_GPT2TokenizerFast_128_anecdote.txt
+cached_lm_GPT2TokenizerFast_128_anecdote.txt.lock
+__pycache__/train.cpython-310.pyc
+anecdote/config.json
+anecdote/pytorch_model.bin
+anecdote/training_args.bin
